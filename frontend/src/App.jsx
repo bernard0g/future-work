@@ -33,8 +33,24 @@ function App() {
     setTheme((prev) => (prev === "dark" ? "light" : "dark"));
   };
 
+  const loadRecomendacoesLocal = () => {
+    const data = localStorage.getItem("recomendacoes");
+    return data ? JSON.parse(data) : {};
+  };
+
+  const saveRecomendacoesLocal = (mapa) => {
+    localStorage.setItem("recomendacoes", JSON.stringify(mapa));
+  };
+
   const aplicarFiltros = () => {
     let resultado = [...profissionaisBase];
+
+    const mapaRecs = loadRecomendacoesLocal();
+
+    resultado = resultado.map((p) => ({
+      ...p,
+      recomendacoes: mapaRecs[p.id] || p.recomendacoes || 0
+    }));
 
     if (filters.busca.trim()) {
       const termo = filters.busca.trim().toLowerCase();
@@ -87,20 +103,24 @@ function App() {
   };
 
   const handleRecommend = () => {
-    if (!selected) return;
+  if (!selected) return;
 
-    const updated = {
-      ...selected,
-      recomendacoes: (selected.recomendacoes || 0) + 1
-    };
+  const mapaRecs = loadRecomendacoesLocal();
 
-    setSelected(updated);
-    setProfessionals((prev) =>
-      prev.map((p) => (p.id === updated.id ? updated : p))
-    );
+  const novoValor = (mapaRecs[selected.id] || 0) + 1;
+  mapaRecs[selected.id] = novoValor;
 
-    alert("Recomendado!");
-  };
+  saveRecomendacoesLocal(mapaRecs);
+
+  const updated = { ...selected, recomendacoes: novoValor };
+  setSelected(updated);
+
+  setProfessionals((prev) =>
+    prev.map((p) => (p.id === updated.id ? updated : p))
+  );
+
+  alert("Recomendado!");
+};
 
   const handleSendMessage = (payload) => {
     console.log("Mensagem simulada:", payload);

@@ -98,6 +98,8 @@ function App() {
     setProfessionals((prev) =>
       prev.map((p) => (p.id === updated.id ? updated : p))
     );
+
+    alert("Recomendado!");
   };
 
   const handleSendMessage = (payload) => {

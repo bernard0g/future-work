@@ -3,7 +3,7 @@
 Monorepo com duas entregas separadas, usando o mesmo contexto de problema:
 
 - **frontend/** → entrega de Front-End Design / Web Dev (React, Tailwind, JSON local).
-- **backend-python/** → entrega de Python (API REST com FastAPI + MongoDB).
+- **backend/** → entrega de Python (API REST com FastAPI + MongoDB).
 
 A ideia é que o front funcione sozinho com JSON local,
 enquanto o backend reutiliza o mesmo conjunto de perfis para demonstrar
@@ -77,7 +77,7 @@ Não há dependência do back-end para essa entrega.
 
 ## 2. Python / API REST (FastAPI + MongoDB)
 
-Pasta: `backend-python/`
+Pasta: `backend/`
 
 ### Tecnologias
 
@@ -109,7 +109,7 @@ Pasta: `backend-python/`
 O backend utiliza o mesmo JSON de profissionais que o front:
 
 - Front-end: `frontend/src/data/profissionais.json`
-- Backend: cópia em `backend-python/frontend-data/profissionais.json`
+- Backend: cópia em `backend/frontend-data/profissionais.json`
 
 No startup da aplicação, o arquivo JSON é lido e os perfis são inseridos na coleção
 `professionals` do MongoDB, caso o banco esteja vazio.
@@ -119,7 +119,7 @@ No startup da aplicação, o arquivo JSON é lido e os perfis são inseridos na 
 1. Acesse a pasta:
 
 ```bash
-cd backend-python
+cd backend
 ```
 
 2. Crie e ative um ambiente virtual (recomendado):
@@ -140,7 +140,7 @@ pip install -r requirements.txt
 
 4. Configure o MongoDB, se quiser alterar o padrão:
 
-Crie um arquivo `.env` dentro de `backend-python` se precisar mudar a URI ou o nome do banco:
+Crie um arquivo `.env` dentro de `backend` se precisar mudar a URI ou o nome do banco:
 
 ```env
 MONGODB_URI=mongodb://localhost:27017
@@ -174,7 +174,7 @@ Documentação automática:
 
 ```text
 future-work-full/
-  backend-python/
+  backend/
     app/
       __init__.py
       config.py

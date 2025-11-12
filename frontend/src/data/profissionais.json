@@ -1,0 +1,3482 @@
+[
+  {
+    "id": 1,
+    "nome": "Isabela Almeida",
+    "foto": "/images/isabela.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional de desenvolvimento atuando com foco em React, MongoDB.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "MongoDB",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 2,
+    "nome": "Henrique Rodrigues",
+    "foto": "/images/henrique.jpg",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional de desenvolvimento atuando com foco em JavaScript, FastAPI.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "FastAPI",
+      "React"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Desenvolvedor Fullstack",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Dados em tempo real"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 3,
+    "nome": "Felipe Ferreira",
+    "foto": "/images/felipe.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de dados atuando com foco em SQL, Pandas.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Pandas",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cientista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Experiência do usuário"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 4,
+    "nome": "Bruno Costa",
+    "foto": "/images/bruno.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Python, Power BI.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Power BI",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud nativa",
+      "IA ética"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 5,
+    "nome": "João Lima",
+    "foto": "/images/joão.jpg",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional de desenvolvimento atuando com foco em TypeScript, JavaScript.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "JavaScript",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Organização",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Desenvolvedor Fullstack",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 6,
+    "nome": "Carla Moreira",
+    "foto": "/images/carla.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Design System, Prototipação.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Design System",
+      "Prototipação",
+      "Figma"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud nativa",
+      "Dados em tempo real"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 7,
+    "nome": "Bruno Almeida",
+    "foto": "/images/bruno.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Prototipação, Design System.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Prototipação",
+      "Design System",
+      "Acessibilidade"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud nativa",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 8,
+    "nome": "Eduarda Silva",
+    "foto": "/images/eduarda.jpg",
+    "cargo": "Cloud Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em Kubernetes, AWS.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "AWS",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cloud Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 9,
+    "nome": "Carla Souza",
+    "foto": "/images/carla.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional de produto atuando com foco em Scrum, Kanban.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Kanban",
+      "Product Discovery"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Owner",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de produto com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Dados em tempo real"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 10,
+    "nome": "Samuel Souza",
+    "foto": "/images/samuel.jpg",
+    "cargo": "Cloud Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em Docker, AWS.",
+    "localizacao": "Recife/PE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cloud Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 11,
+    "nome": "Rafaela Oliveira",
+    "foto": "/images/rafaela.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional de desenvolvimento atuando com foco em JavaScript, MongoDB.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "MongoDB",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Desenvolvedor Front-end",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 12,
+    "nome": "Victor Gomes",
+    "foto": "/images/victor.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional de produto atuando com foco em Product Discovery, Roadmapping.",
+    "localizacao": "Curitiba/PR",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Product Discovery",
+      "Roadmapping",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Manager",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de produto com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "IA ética"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 13,
+    "nome": "Carla Rodrigues",
+    "foto": "/images/carla.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional de desenvolvimento atuando com foco em React, MongoDB.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "MongoDB",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Desenvolvedor Back-end",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Dados em tempo real"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 14,
+    "nome": "Marina Gomes",
+    "foto": "/images/marina.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Acessibilidade, Figma.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Acessibilidade",
+      "Figma",
+      "Prototipação"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 15,
+    "nome": "Ana Lima",
+    "foto": "/images/ana.jpg",
+    "cargo": "UX/UI Designer",
+    "resumo": "Profissional de design atuando com foco em Figma, Acessibilidade.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Acessibilidade",
+      "Prototipação"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "UX/UI Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 16,
+    "nome": "Tatiana Moreira",
+    "foto": "/images/tatiana.jpg",
+    "cargo": "UX/UI Designer",
+    "resumo": "Profissional de design atuando com foco em Design System, Acessibilidade.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Design System",
+      "Acessibilidade",
+      "Prototipação"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "UX/UI Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 17,
+    "nome": "Bruno Lima",
+    "foto": "/images/bruno.jpg",
+    "cargo": "Cloud Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em CI/CD, AWS.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "AWS",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cloud Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 18,
+    "nome": "Olivia Almeida",
+    "foto": "/images/olivia.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Acessibilidade, Prototipação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Acessibilidade",
+      "Prototipação",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 19,
+    "nome": "Paulo Almeida",
+    "foto": "/images/paulo.jpg",
+    "cargo": "Cloud Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em Docker, Kubernetes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cloud Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 20,
+    "nome": "Eduarda Almeida",
+    "foto": "/images/eduarda.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional de produto atuando com foco em Scrum, Product Discovery.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Product Discovery",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Owner",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de produto com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 21,
+    "nome": "Bruno Rodrigues",
+    "foto": "/images/bruno.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional de produto atuando com foco em Scrum, Product Discovery.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Product Discovery",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Manager",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de produto com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 22,
+    "nome": "Victor Lima",
+    "foto": "/images/victor.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional de produto atuando com foco em Kanban, Scrum.",
+    "localizacao": "Curitiba/PR",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Kanban",
+      "Scrum",
+      "Product Discovery"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Manager",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de produto com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 23,
+    "nome": "Karen Lima",
+    "foto": "/images/karen.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Power BI, Python.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Python",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "IA ética"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 24,
+    "nome": "João Oliveira",
+    "foto": "/images/joão.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Prototipação, Acessibilidade.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Prototipação",
+      "Acessibilidade",
+      "Figma"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Experiência do usuário"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 25,
+    "nome": "Samuel Oliveira",
+    "foto": "/images/samuel.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional de desenvolvimento atuando com foco em Node.js, FastAPI.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "FastAPI",
+      "React"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 26,
+    "nome": "Carla Ferreira",
+    "foto": "/images/carla.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Python, Machine Learning.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Machine Learning",
+      "Pandas"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cientista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 27,
+    "nome": "Diego Lima",
+    "foto": "/images/diego.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional de produto atuando com foco em Scrum, Kanban.",
+    "localizacao": "Recife/PE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Kanban",
+      "Product Discovery"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Manager",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de produto com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "IA ética"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 28,
+    "nome": "Bruno Gomes",
+    "foto": "/images/bruno.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Pandas, Python.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Pandas",
+      "Python",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 29,
+    "nome": "Felipe Gomes",
+    "foto": "/images/felipe.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em Kubernetes, AWS.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "AWS",
+      "Docker"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 30,
+    "nome": "Lucas Silva",
+    "foto": "/images/lucas.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Design System, Figma.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Design System",
+      "Figma",
+      "Prototipação"
+    ],
+    "softSkills": [
+      "Organização",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 31,
+    "nome": "Samuel Gomes",
+    "foto": "/images/samuel.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional de produto atuando com foco em Product Discovery, Scrum.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Product Discovery",
+      "Scrum",
+      "Roadmapping"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Owner",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de produto com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 32,
+    "nome": "Nicolas Moreira",
+    "foto": "/images/nicolas.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Python, Power BI.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Power BI",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Dados em tempo real"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 33,
+    "nome": "Lucas Ferreira",
+    "foto": "/images/lucas.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Profissional de produto atuando com foco em Kanban, Roadmapping.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Kanban",
+      "Roadmapping",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Manager",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de produto com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud nativa",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 34,
+    "nome": "João Rodrigues",
+    "foto": "/images/joão.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Pandas, Power BI.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Pandas",
+      "Power BI",
+      "SQL"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "IA ética"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 35,
+    "nome": "Gabriela Ferreira",
+    "foto": "/images/gabriela.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Machine Learning, SQL.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "SQL",
+      "Pandas"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resolução de problemas",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud nativa",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 36,
+    "nome": "Rafaela Moreira",
+    "foto": "/images/rafaela.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional de desenvolvimento atuando com foco em JavaScript, React.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Desenvolvedor Front-end",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 37,
+    "nome": "Olivia Ferreira",
+    "foto": "/images/olivia.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em Linux, Kubernetes.",
+    "localizacao": "Recife/PE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Linux",
+      "Kubernetes",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Organização",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 38,
+    "nome": "Nicolas Almeida",
+    "foto": "/images/nicolas.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional de desenvolvimento atuando com foco em TypeScript, MongoDB.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "MongoDB",
+      "FastAPI"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 39,
+    "nome": "Olivia Moreira",
+    "foto": "/images/olivia.jpg",
+    "cargo": "Cloud Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em Linux, CI/CD.",
+    "localizacao": "Recife/PE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Linux",
+      "CI/CD",
+      "AWS"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cloud Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 40,
+    "nome": "Henrique Silva",
+    "foto": "/images/henrique.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Python, SQL.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 41,
+    "nome": "Eduarda Almeida",
+    "foto": "/images/eduarda.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Acessibilidade, Design System.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Acessibilidade",
+      "Design System",
+      "Prototipação"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 42,
+    "nome": "Tatiana Ferreira",
+    "foto": "/images/tatiana.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em Docker, AWS.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resolução de problemas",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Experiência do usuário"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 43,
+    "nome": "Ana Ferreira",
+    "foto": "/images/ana.jpg",
+    "cargo": "Cloud Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em CI/CD, Kubernetes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Kubernetes",
+      "Linux"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cloud Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 44,
+    "nome": "Nicolas Oliveira",
+    "foto": "/images/nicolas.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional de desenvolvimento atuando com foco em React, JavaScript.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Organização",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 45,
+    "nome": "Nicolas Silva",
+    "foto": "/images/nicolas.jpg",
+    "cargo": "Cloud Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em CI/CD, Docker.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cloud Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud nativa",
+      "IA ética"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 46,
+    "nome": "Henrique Almeida",
+    "foto": "/images/henrique.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional de desenvolvimento atuando com foco em FastAPI, React.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "FastAPI",
+      "React",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Experiência do usuário"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 47,
+    "nome": "Victor Moreira",
+    "foto": "/images/victor.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Python, Pandas.",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cientista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Dados em tempo real",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 48,
+    "nome": "Carla Moreira",
+    "foto": "/images/carla.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em Kubernetes, Docker.",
+    "localizacao": "Recife/PE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "Dados em tempo real"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 49,
+    "nome": "Carla Rodrigues",
+    "foto": "/images/carla.jpg",
+    "cargo": "Cloud Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em AWS, Docker.",
+    "localizacao": "Recife/PE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cloud Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud nativa",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 50,
+    "nome": "Felipe Rodrigues",
+    "foto": "/images/felipe.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Prototipação, Acessibilidade.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Prototipação",
+      "Acessibilidade",
+      "Design System"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resolução de problemas",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "IA ética"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 51,
+    "nome": "Henrique Costa",
+    "foto": "/images/henrique.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Machine Learning, Power BI.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Power BI",
+      "Pandas"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 52,
+    "nome": "Karen Silva",
+    "foto": "/images/karen.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de dados atuando com foco em SQL, Python.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Python",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Dados em tempo real"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 53,
+    "nome": "Paulo Costa",
+    "foto": "/images/paulo.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Figma, Design System.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design System",
+      "Acessibilidade"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Observabilidade",
+      "Dados em tempo real"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 54,
+    "nome": "Nicolas Rodrigues",
+    "foto": "/images/nicolas.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional de produto atuando com foco em Kanban, Roadmapping.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Kanban",
+      "Roadmapping",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Owner",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de produto com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Arquitetura de sistemas"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 55,
+    "nome": "Samuel Oliveira",
+    "foto": "/images/samuel.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Pandas, Power BI.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Pandas",
+      "Power BI",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cientista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Experiência do usuário"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 56,
+    "nome": "Felipe Silva",
+    "foto": "/images/felipe.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional de design atuando com foco em Design System, Acessibilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Design System",
+      "Acessibilidade",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Product Designer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de design com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud nativa",
+      "Observabilidade"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 57,
+    "nome": "Tatiana Silva",
+    "foto": "/images/tatiana.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional de desenvolvimento atuando com foco em Python, TypeScript.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "TypeScript",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de desenvolvimento com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 58,
+    "nome": "Carla Moreira",
+    "foto": "/images/carla.jpg",
+    "cargo": "Cloud Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em Docker, Kubernetes.",
+    "localizacao": "Recife/PE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "Linux"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cloud Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Dados em tempo real"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 59,
+    "nome": "Rafaela Ferreira",
+    "foto": "/images/rafaela.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional de infraestrutura atuando com foco em CI/CD, AWS.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "AWS",
+      "Linux"
+    ],
+    "softSkills": [
+      "Organização",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de infraestrutura com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de sistemas",
+      "Cloud nativa"
+    ],
+    "recomendacoes": 0
+  },
+  {
+    "id": 60,
+    "nome": "Felipe Almeida",
+    "foto": "/images/felipe.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de dados atuando com foco em Machine Learning, Python.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Python",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Future Labs",
+        "cargo": "Cientista de Dados",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados com times multidisciplinares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Future.WORK",
+        "link": "https://example.com/future-work",
+        "descricao": "Plataforma colaborativa para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do usuário",
+      "IA ética"
+    ],
+    "recomendacoes": 0
+  }
+]

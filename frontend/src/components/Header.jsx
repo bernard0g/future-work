@@ -14,7 +14,7 @@ export default function Header({ theme, onToggleTheme }) {
 
         <div className="flex items-center gap-3">
           <span className="hidden sm:inline text-xs md:text-sm text-slate-500 dark:text-slate-400">
-            Global Solution · 2º semestre · Engenharia de Software
+            Temas:
           </span>
           <button
             type="button"

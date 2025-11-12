@@ -72,6 +72,7 @@ function App() {
 
     if (filters.cidade.trim()) {
       const termo = filters.cidade.trim().toLowerCase();
+
       resultado = resultado.filter((p) =>
         p.localizacao.toLowerCase().includes(termo)
       );

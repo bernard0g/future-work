@@ -37,7 +37,7 @@ http://localhost:5173
 
 ---
 
-### **backend-python/** – Entrega da matéria de Python  
+### **backend/** – Entrega da matéria de Python  
 API feita com **FastAPI**, usando **MongoDB**.  
 Aqui reaproveitamos o mesmo JSON dos 60 perfis para popular o banco quando a API inicia.
 
@@ -52,7 +52,7 @@ Essa parte demonstra:
 Como rodar:
 
 ```
-cd backend-python
+cd backend
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
@@ -73,7 +73,7 @@ future-work/
       App.jsx
       data/profissionais.json
       components/
-  backend-python/
+  backend/
     app/
       main.py
       crud.py

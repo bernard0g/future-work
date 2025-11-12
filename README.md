@@ -68,18 +68,44 @@ http://localhost:8000/docs
 
 ```
 future-work/
-  frontend/
-    src/
-      App.jsx
-      data/profissionais.json
-      components/
-  backend/
-    app/
-      main.py
-      crud.py
-      models.py
-      seed_data.py
-    frontend-data/profissionais.json
+│   README.md
+│
+├───backend
+│   │   requirements.txt
+│   │
+│   ├───app
+│   │       config.py
+│   │       crud.py
+│   │       database.py
+│   │       main.py
+│   │       models.py
+│   │       seed_data.py
+│   │       __init__.py
+│   │
+│   └───frontend-data
+│           profissionais.json
+│
+└───frontend
+    │   index.html
+    │   package.json
+    │   postcss.config.mjs
+    │   tailwind.config.mjs
+    │   vite.config.mjs
+    │
+    └───src
+        │   App.jsx
+        │   index.css
+        │   main.jsx
+        │
+        ├───components
+        │       Filters.jsx
+        │       Header.jsx
+        │       ProfessionalCard.jsx
+        │       ProfessionalModal.jsx
+        │
+        └───data
+                profissionais.json
+
 ```
 
 ---

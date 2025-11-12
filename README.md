@@ -1,215 +1,99 @@
-# Future.WORK - Global Solution
 
-Monorepo com duas entregas separadas, usando o mesmo contexto de problema:
+# Future.WORK – Global Solution (2º Semestre)
 
-- **frontend/** → entrega de Front-End Design / Web Dev (React, Tailwind, JSON local).
-- **backend/** → entrega de Python (API REST com FastAPI + MongoDB).
-
-A ideia é que o front funcione sozinho com JSON local,
-enquanto o backend reutiliza o mesmo conjunto de perfis para demonstrar
-estruturas de decisão, repetição, funções e comunicação com banco de dados.
+Este projeto faz parte da Global Solution do 2º semestre e foi desenvolvido com o objetivo de criar a **Future.WORK**, uma plataforma simples que simula uma rede profissional.  
+Aqui o usuário pode ver perfis, filtrar profissionais, abrir detalhes, recomendar e enviar mensagens (simulação).  
+O projeto foi separado porque cada matéria pede uma parte diferente, mas tudo usa o mesmo tema.
 
 ---
 
-## 1. Front-End Design / Web Dev (React + Tailwind + JSON)
+## Como o projeto está organizado
 
-Pasta: `frontend/`
+### **frontend/** – Entrega de Front-End Design / Web Dev  
+Parte feita em **React**, **Vite** e **TailwindCSS**.  
+Aqui usamos apenas um **arquivo JSON local** com 60 perfis.  
+Não depende de servidor, API ou banco – tudo funciona direto no navegador.
 
-### Tecnologias
+O que tem no front:
 
-- React 18
-- Vite
-- Tailwind CSS
-- JSON local (`src/data/profissionais.json`)
+- Lista de profissionais  
+- Filtros por busca, área, cidade e tecnologia  
+- Modal com informações completas  
+- Recomendar (incrementa localmente, salvo no localStorage)  
+- Enviar mensagem (simulado com alert e console.log)  
+- Tema claro/escuro  
+- SPA simples e funcional  
 
-### Requisitos atendidos
+Como rodar:
 
-- SPA com listagem de profissionais em cards.
-- Arquivo JSON local com 60 perfis simulados.
-- Filtros por:
-  - Busca geral (nome, cargo, resumo)
-  - Área
-  - Cidade
-  - Tecnologia
-- Modal de detalhes com:
-  - Resumo
-  - Habilidades técnicas
-  - Soft skills
-  - Experiências
-  - Formação
-  - Projetos
-  - Idiomas e interesses
-- Botão de recomendação (incremento local de recomendações).
-- Formulário de envio de mensagem (simulado em memória, com `console.log`).
-- Tema claro/escuro com Tailwind (`darkMode: "class"`).
-
-### Como rodar o front
-
-1. Acesse a pasta:
-
-```bash
+```
 cd frontend
-```
-
-2. Instale as dependências:
-
-```bash
 npm install
-```
-
-3. Rode em modo desenvolvimento:
-
-```bash
 npm run dev
 ```
 
-4. Acesse no navegador:
-
-- http://localhost:5173
-
-O front lê os dados diretamente de:
-
-- `src/data/profissionais.json`
-
-Não há dependência do back-end para essa entrega.
+Acessar:  
+http://localhost:5173
 
 ---
 
-## 2. Python / API REST (FastAPI + MongoDB)
+### **backend-python/** – Entrega da matéria de Python  
+API feita com **FastAPI**, usando **MongoDB**.  
+Aqui reaproveitamos o mesmo JSON dos 60 perfis para popular o banco quando a API inicia.
 
-Pasta: `backend/`
+Essa parte demonstra:
 
-### Tecnologias
+- Estruturas de decisão (filtros, validações)
+- Estruturas de repetição (seed, loops, listagens)
+- Funções separadas (CRUD, normalização, etc.)
+- Rotas REST
+- Comunicação com banco  
 
-- Python 3.11+
-- FastAPI
-- Uvicorn
-- MongoDB
-- Pydantic 2
-- python-dotenv
+Como rodar:
 
-### Requisitos atendidos
-
-- Estruturas de decisão:
-  - Filtros por área, cidade, tecnologia e busca na camada de CRUD.
-  - Validação de `profissional_id` em rotas de mensagem e recomendação.
-- Estruturas de repetição:
-  - Iteração sobre documentos do MongoDB.
-  - Seed de múltiplos profissionais a partir de um JSON.
-- Funções:
-  - Camada de serviço/CRUD desacoplada das rotas.
-  - Funções de acesso ao banco e normalização de documentos.
-- Criação de APIs REST:
-  - Rotas `GET`, `POST` com modelos Pydantic e códigos de status adequados.
-- Comunicação com banco de dados:
-  - Integração com MongoDB via `pymongo`.
-
-### Fonte de dados
-
-O backend utiliza o mesmo JSON de profissionais que o front:
-
-- Front-end: `frontend/src/data/profissionais.json`
-- Backend: cópia em `backend/frontend-data/profissionais.json`
-
-No startup da aplicação, o arquivo JSON é lido e os perfis são inseridos na coleção
-`professionals` do MongoDB, caso o banco esteja vazio.
-
-### Como rodar o backend
-
-1. Acesse a pasta:
-
-```bash
-cd backend
 ```
-
-2. Crie e ative um ambiente virtual (recomendado):
-
-```bash
+cd backend-python
 python -m venv .venv
-# Windows
 .venv\Scripts\activate
-# Linux / macOS
-source .venv/bin/activate
-```
-
-3. Instale as dependências:
-
-```bash
 pip install -r requirements.txt
-```
-
-4. Configure o MongoDB, se quiser alterar o padrão:
-
-Crie um arquivo `.env` dentro de `backend` se precisar mudar a URI ou o nome do banco:
-
-```env
-MONGODB_URI=mongodb://localhost:27017
-MONGODB_DB=gs_future_work
-```
-
-Se não criar, o projeto usa exatamente esses valores como padrão.
-
-5. Suba a API:
-
-```bash
 uvicorn app.main:app --reload --port 8000
 ```
 
-Endpoints principais:
-
-- Healthcheck: `GET /health`
-- Listar profissionais: `GET /api/professionals`
-- Detalhar profissional: `GET /api/professionals/{id}`
-- Criar profissional: `POST /api/professionals`
-- Recomendar profissional: `POST /api/professionals/{id}/recommend`
-- Enviar mensagem: `POST /api/messages`
-
-Documentação automática:
-
-- http://localhost:8000/docs
+Documentação da API:  
+http://localhost:8000/docs
 
 ---
 
-## 3. Estrutura de pastas
+## Estrutura do projeto
 
-```text
-future-work-full/
-  backend/
-    app/
-      __init__.py
-      config.py
-      database.py
-      models.py
-      crud.py
-      main.py
-      seed_data.py
-    frontend-data/
-      profissionais.json
-    requirements.txt
-
+```
+future-work/
   frontend/
-    index.html
-    package.json
-    postcss.config.mjs
-    tailwind.config.mjs
-    vite.config.mjs
     src/
-      main.jsx
-      index.css
       App.jsx
-      data/
-        profissionais.json
+      data/profissionais.json
       components/
-        Header.jsx
-        Filters.jsx
-        ProfessionalCard.jsx
-        ProfessionalModal.jsx
-
-  README.md
+  backend-python/
+    app/
+      main.py
+      crud.py
+      models.py
+      seed_data.py
+    frontend-data/profissionais.json
 ```
 
 ---
 
-## INTEGRANTES
+## Repositório
 
-Bernardo Lozorio Gomes Y Gomes | RM: 564943
+https://github.com/bernard0g/future-work/
+
+---
+
+## Integrantes
+
+Bernardo Lozorio Gomes Y Gomes – **RM: 564943**
+
+---
+
+Esse projeto foi feito para cumprir as entregas das disciplinas, de forma simples, organizada e direta, seguindo exatamente o que foi pedido.

@@ -124,7 +124,3 @@ https://github.com/bernard0g/future-work/
 ## Integrantes
 
 Bernardo Lozorio Gomes Y Gomes – **RM: 564943**
-
----
-
-Esse projeto foi feito para cumprir as entregas das disciplinas, de forma simples, organizada e direta, seguindo exatamente o que foi pedido.

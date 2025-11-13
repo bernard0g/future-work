@@ -103,24 +103,38 @@ function App() {
     aplicarFiltros();
   };
 
-  const handleRecommend = () => {
+  const handleRecommend = async () => {
   if (!selected) return;
 
-  const mapaRecs = loadRecomendacoesLocal();
+  try {
+    const response = await fetch(
+      `http://localhost:8000/api/professionals/${selected.id}/recommend`,
+      {
+        method: "POST"
+      }
+    );
 
-  const novoValor = (mapaRecs[selected.id] || 0) + 1;
-  mapaRecs[selected.id] = novoValor;
+    if (!response.ok) {
+      throw new Error("Erro ao recomendar");
+    }
 
-  saveRecomendacoesLocal(mapaRecs);
+    const atualizado = await response.json();
 
-  const updated = { ...selected, recomendacoes: novoValor };
-  setSelected(updated);
+    const mapaRecs = loadRecomendacoesLocal();
+    mapaRecs[atualizado.id] = atualizado.recomendacoes;
+    saveRecomendacoesLocal(mapaRecs);
 
-  setProfessionals((prev) =>
-    prev.map((p) => (p.id === updated.id ? updated : p))
-  );
+    setSelected(atualizado);
 
-  alert("Recomendado!");
+    setProfessionals((prev) =>
+      prev.map((p) => (p.id === atualizado.id ? atualizado : p))
+    );
+
+    alert("Recomendado!");
+  } catch (error) {
+    console.error(error);
+    alert("Não foi possível registrar a recomendação.");
+  }
 };
 
   const handleSendMessage = async (payload) => {

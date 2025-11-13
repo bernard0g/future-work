@@ -133,7 +133,7 @@ function App() {
     alert("Recomendado!");
   } catch (error) {
     console.error(error);
-    alert("Não foi possível registrar a recomendação.");
+    alert("Não foi possível registrar a recomendação. (Devido a falta de API, mas sistema funcional)");
   }
 };
 

@@ -52,7 +52,14 @@ Essa parte demonstra:
 - Estruturas de repetição (seed, loops, listagens)
 - Funções separadas (CRUD, normalização, etc.)
 - Rotas REST
-- Comunicação com banco  
+- Comunicação com banco
+- Endpoints funcionais:
+```bash
+> GET /api/professionals
+> GET /api/professionals/{id}
+> POST /api/professionals/{id}/recommend
+> POST /api/messages
+```
 
 Como rodar:
 
@@ -63,6 +70,8 @@ python -m venv .venv
 pip install -r requirements.txt
 uvicorn app.main:app --reload --port 8000
 ```
+
+MongoDB precisa estar rodando localmente.
 
 Documentação da API:  
 http://localhost:8000/docs

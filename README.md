@@ -132,4 +132,4 @@ https://github.com/bernard0g/future-work/
 
 ## Integrantes
 
-Bernardo Lozorio Gomes Y Gomes – **RM: 564943**
+Bernardo Lozório Gomes Y Gomes – **RM: 564943**

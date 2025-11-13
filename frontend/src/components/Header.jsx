@@ -5,7 +5,7 @@ export default function Header({ theme, onToggleTheme }) {
         <div>
           <h1 className="text-xl md:text-2xl font-semibold text-slate-900 dark:text-slate-100">
             Future.WORK
-            <span className="text-sky-600 dark:text-sky-400"> · Rede Profissional</span>
+            <span className="text-sky-600 dark:text-sky-400"> - Rede Profissional</span>
           </h1>
           <p className="text-slate-500 dark:text-slate-400 text-xs md:text-sm">
             Conectando talentos, competências e oportunidades no novo mundo do trabalho.

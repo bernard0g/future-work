@@ -9,7 +9,7 @@ O projeto foi separado porque cada matéria pede uma parte diferente, mas tudo u
 
 ## Como o projeto está organizado
 
-### **frontend/** – Entrega de Front-End Design / Web Dev  
+### **frontend/** 
 Parte feita em **React**, **Vite** e **TailwindCSS**.  
 Aqui usamos apenas um **arquivo JSON local** com 60 perfis.  
 Não depende de servidor, API ou banco – tudo funciona direto no navegador.
@@ -37,7 +37,7 @@ http://localhost:5173
 
 ---
 
-### **backend/** – Entrega da matéria de Python  
+### **backend/**
 API feita com **FastAPI**, usando **MongoDB**.  
 Aqui reaproveitamos o mesmo JSON dos 60 perfis para popular o banco quando a API inicia.
 

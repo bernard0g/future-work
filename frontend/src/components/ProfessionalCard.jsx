@@ -23,7 +23,16 @@ export default function ProfessionalCard({ profissional, onClick }) {
           <p className="text-xs text-slate-500 dark:text-slate-500">
             {profissional.localizacao}
           </p>
+          
         </div>
+        <div className="flex gap-3 mt-1">
+          {profissional.github && (
+          <a href={profissional.github} target="_blank" rel="noreferrer" className="text-[11px] text-sky-600 dark:text-sky-400 underline" onClick={(e) => e.stopPropagation()}> GitHub </a> )}
+
+          {profissional.linkedin && (
+          <a href={profissional.linkedin} target="_blank" rel="noreferrer" className="text-[11px] text-sky-600 dark:text-sky-400 underline" onClick={(e) => e.stopPropagation()}> LinkedIn </a> )}
+        </div>
+        
       </div>
       <p className="text-xs text-slate-700 dark:text-slate-300 line-clamp-2">
         {profissional.resumo}

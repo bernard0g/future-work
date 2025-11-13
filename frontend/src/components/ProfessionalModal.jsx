@@ -51,6 +51,36 @@ export default function ProfessionalModal({
             </p>
           </section>
 
+          <section className="mt-2">
+            <h3 className="text-sm font-semibold mb-1 text-slate-900 dark:text-slate-100">
+              Links profissionais
+            </h3>
+
+            <div className="flex gap-3">
+              {profissional.github && (
+                <a
+                  href={profissional.github}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-xs text-sky-600 dark:text-sky-400 underline"
+                >
+                  GitHub
+                </a>
+              )}
+
+              {profissional.linkedin && (
+                <a
+                  href={profissional.linkedin}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-xs text-sky-600 dark:text-sky-400 underline"
+                >
+                  LinkedIn
+                </a>
+              )}
+            </div>
+          </section>
+
           <section className="grid md:grid-cols-2 gap-4">
             <div>
               <h3 className="text-sm font-semibold mb-1 text-slate-900 dark:text-slate-100">

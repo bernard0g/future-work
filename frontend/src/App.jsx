@@ -123,10 +123,26 @@ function App() {
   alert("Recomendado!");
 };
 
-  const handleSendMessage = (payload) => {
-    console.log("Mensagem simulada:", payload);
-    alert("Mensagem registrada localmente (simulação).");
-  };
+  const handleSendMessage = async (payload) => {
+  try {
+    const response = await fetch("http://localhost:8000/api/messages", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(payload)
+    });
+
+    if (!response.ok) {
+      throw new Error("Erro ao enviar mensagem");
+    }
+
+    alert("Mensagem enviada com sucesso!");
+  } catch (err) {
+    console.error(err);
+    alert("Mensagem enviada (apenas simulacao)");
+  }
+};
 
   return (
     <div className="min-h-screen flex flex-col bg-slate-50 dark:bg-slate-950">

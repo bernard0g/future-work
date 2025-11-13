@@ -41,6 +41,11 @@ http://localhost:5173
 API feita com **FastAPI**, usando **MongoDB**.  
 Aqui reaproveitamos o mesmo JSON dos 60 perfis para popular o banco quando a API inicia.
 
+Neste backend eu implementei uma API em FastAPI que reutiliza os mesmos perfis do front-end, lendo um JSON e armazenando em um banco MongoDB.
+
+A API permite listar, filtrar, criar e recomendar profissionais, além de registrar mensagens.
+No código foram aplicadas estruturas de decisão (filtros e validações), estruturas de repetição (loops em listagens e seed de dados), funções separadas na camada de CRUD e integração real com o banco de dados.
+
 Essa parte demonstra:
 
 - Estruturas de decisão (filtros, validações)
